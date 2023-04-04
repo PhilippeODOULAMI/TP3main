@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Resultat de sport</string>
+    <string name="competition_name">Competition : </string>
+    <string name="competition_name_hint">Entrer le nom de la compétition</string>
+    <string name="winner_name">Gagnant(e) : </string>
+    <string name="winner_name_hint">Entre le nom du gagnant ou de la gagnante</string>
+    <string name="date">Date : </string>
+    <string name="date_hint">Entrer la  date (DD/MM/YYYY)</string>
+    <string name="score">Score : </string>
+    <string name="score_hint">Entrer score</string>
+    <string name="comment">Commentaire : </string>
+    <string name="comment_hint">Entrer un commentaire</string>
+    <string name="enregistrer">Enregistrer</string>
+
+
+    <string name="title">Contrôle de maison à distance</string>
+    <string name="temperature">Temperature de la salle de séjour et de la salle à manger : </string>
+    <string name="volets">Volets : cocher pour déployer</string>
+    <string name="salon">Salon</string>
+    <string name="chambre">Chambre</string>
+    <string name="cuisine">Cuisine</string>
+    <string name="musique">Musique</string>
+    <string name="allumer">Allumer/Eteindre</string>
+</resources>
